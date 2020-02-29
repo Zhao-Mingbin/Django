@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4a86e62-430e-4919-bd9d-a32c6f976d4c" name="默认更改列表" comment="" />
+    <list default="true" id="b4a86e62-430e-4919-bd9d-a32c6f976d4c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wordcount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/count.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordcount/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YQzwQtoS3PP63Je7neQNz5vCIA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -104,7 +125,7 @@
       <updated>1582889844013</updated>
       <workItem from="1582889848033" duration="2474000" />
       <workItem from="1582892370481" duration="4947000" />
-      <workItem from="1582945188356" duration="2452000" />
+      <workItem from="1582945188356" duration="3210000" />
     </task>
     <servers />
   </component>
